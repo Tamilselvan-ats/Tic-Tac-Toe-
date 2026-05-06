@@ -1,0 +1,6 @@
+{
+  "name": "Tic-Tac-Toe Java Maven Project",
+  "description": "A console-based Tic-Tac-Toe game implemented in Java using Maven, covering 10 specific use cases from board initialization to win/draw detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
